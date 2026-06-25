@@ -1,0 +1,6 @@
+{
+  "name": "Landing Page Nguyễn Thị Cẩm Tú - VietinBank Bến Lức",
+  "description": "Trang thông tin cá nhân và truyền thông sản phẩm dịch vụ tài chính của Nguyễn Thị Cẩm Tú - Phó Giám đốc VietinBank Chi nhánh Bến Lức, tích hợp Trợ lý tư vấn AI chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
